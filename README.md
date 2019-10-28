@@ -15,7 +15,7 @@ Run the tests:
 [ADD INSTRUCTIONS]
 ```
 
-# problem formulatioon
+# problem formulation
 ===========================================
 
 You are running an auction website where people can put items up for sale, and others
